@@ -1,0 +1,13 @@
+.container-fluid {
+  display: table-cell;
+  flex-flow: table-cell;
+  width: 100%;
+  padding-left: 350px;
+  padding-right: 250px;
+  padding-bottom: 40px;
+  justify-content: center;
+  overflow: auto;
+  background-image: url("../images/graf.jpg");
+  background-repeat: repeat-y;
+  width: 100%;
+}

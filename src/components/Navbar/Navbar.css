@@ -1,0 +1,64 @@
+/*import google fonts for "a"*/
+@import url('https://fonts.googleapis.com/css?family=Syncopate');
+
+.nav {
+	background-color: #470d43;
+	padding: 30px;
+	margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+a {
+	color: white;
+	font-size: 28px;
+	font-family: 'Syncopate', sans-serif;
+	font-weight: bold;
+	display: block;
+	text-decoration: none;
+}
+
+.clicky {
+	text-align: left;
+	list-style-type: none;
+	display:inline;
+	text-decoration: none;
+	float: left;
+}
+
+.mid{
+	list-style-type: none;
+	display:inline-block;
+	float: none;
+	text-align: center;
+	text-decoration: none;
+	padding-left: 22%;
+
+}
+
+.score{
+	float: right;
+	list-style-type: none;
+	display:inline;
+	text-decoration: none;
+	padding-right: 100px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.navbar-fixed {
+    top: 0;
+    z-index: 100;
+  position: fixed;
+    width: 100%;
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "21 Pilots",
+    "image": "./images/21pilots.png"
+  },
+  {
+    "id": 2,
+    "name": "afi",
+    "image": "./images/afi.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Avenged Sevenfold",
+    "image": "./images/avengedSevenfold.jpg"
+  },
+  {
+    "id": 4,
+    "name": "blink182",
+    "image": "./images/blink182.jpg"
+  },
+  {
+    "id": 5,
+    "name": "incubus",
+    "image": "./images/incubus.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Linkin park",
+    "image": "./images/linkinpark.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Misfits",
+    "image": "./images/misfits.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rancid",
+    "image": "./images/rancid.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Smashing Pumpkins",
+    "image": "./images/Smashing-Pumpkins.png"
+  },
+  {
+    "id": 10,
+    "name": "Streetlight Manifesto",
+    "image": "./images/streetlightManifesto.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Taking Back Sunday",
+    "image": "./images/taking-back-sunday.jpg"
+  },
+  {
+    "id": 12,
+    "name": "The Used",
+    "image": "./images/the-used.jpg"
+  }
+]

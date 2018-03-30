@@ -1,0 +1,31 @@
+.cards {
+    background: #fff;
+    border-radius: 2px;
+    height: 245px;
+    width: 245px;
+    position: relative;
+    cursor: pointer;
+    border:10px solid white;
+}
+
+button {
+    margin: 20px 20px 0px 8px;
+}
+
+button:hover {
+    transition: all .2s ease-in-out;
+    transform: scale(1.1);
+    background-image: url("../images/graf.jpg");
+    background-size: cover;x
+    background-repeat: no-repeat;
+
+}
+
+.cards > .img-container {
+    height: 100%;
+}
+
+.cards > .img-container >  img {
+    width: 100%;
+    height: 100%;
+}
